@@ -1,0 +1,433 @@
+
+
+
+Thomson Reuters StreetEvents Event Transcript
+F I N A L   V E R S I O N
+
+0777 - Net Dragon Websoft Inc.
+Q4 2008 Net Dragon Websoft Inc. Earnings Conference Call
+Mar 12, 2009 / 12:00PM  GMT 
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Joe Wu
+      NetDragon - CFO
+   *  James Rhee
+      NetDragon - VP, Corporate Development
+   *  Celia Tam
+      NetDrago - Financial Controller
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Jin Yoon
+      Nomura International - Analyst
+   *  Thomas Chong
+      Bank of America - Analyst
+   *  Jeffrey Sing
+      Cazenove Asia - Analyst
+   *  Jeffrey Tsang
+      Cazenove Asia - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ I would like to welcome everyone joining NetDragon Websoft's fourth quarter 2008 and fiscal year 2008 results conference call. Today, Chief Financial Officer of NetDragon, Joe Wu; and VP of Corporate Development, James Rhee, will give a presentation and overview of the group's fourth quarter 2008 and full-year results.
+
+ (Operator Instructions)
+
+ I now invite Mr. Wu to start the presentation. Mr. Wu, please proceed.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [2]
+--------------------------------------------------------------------------------
+ Thank you. Good evening, everyone. Thank you for joining our 2008 annual results investor conference call.
+
+ 2008 was a remarkable year for us with NetDragon's listing successfully transferred to the main board of the stock exchange for Hong Kong in June and our inclusion in the MSCI China Index in May.
+
+ We were also able to continue to supply existing game franchises with weekly updates and the large-scale expansion pack, notably for Eudemons and Conquer Online.
+
+ We also took steps to raise our production capacity and output by expanding our headcount and investing in our people and our internal management systems.
+
+ In other words, we have laid the foundations for our future prosperity.
+
+ It was also a challenging year as we faced the industry scourge known as "private servers", which had adversely impacted our Eudemons franchise. While no one can say for certain if this problem is over, in the latter part of 2008, we made noteworthy progress in mitigating the negative impact of private server through our solo efforts, as well as those in cooperation with local governments in China.
+
+ Now, turning our attention to our games. Our current portfolio consists of a range of MMORPGs in various styles, which includes Eudemons, Conquer, Zero and Tou Ming Zhuang.
+
+ We recently released our expansion pack for Conquer in Q4 '08, Eudemons on January '09, and Zero in February '09.
+
+ We believe that these franchises will continue as solid components of our portfolio, and we expect to dedicate sufficient resources to satisfy our loyal players -- both at home and at war -- for releasing expansion pack and by maintaining top quality customer service.
+
+ Many of you may have noticed that our newest game, Way of the Five, entered open beta this past weekend. Way of the Five, or Kaixin in Chinese, is a Q-style MMORPG which we believe will have a mass-market appeal in China and potentially other markets.
+
+ I am pleased to announce that we have achieved 100,000 PCU during its initial three days of the launch. We are satisfied with the initial response of the Chinese gaming community.
+
+ I would like to note that NetDragon is pleased to have the famous actor and movie producer, Mr. Steven Chow Sing-Chi, acting as the game's ambassador of Kaixin, which we believe will help promote and raise the profile of Way of the Five.
+
+ For our future games, for public release in the first half of '09, we expect to launch Disney Fantasy Online and Heroes of Might and Magic Online.
+
+ Heroes had entered a limited public launch in the second quarter of '08, but we expect to release full open beta version soon.
+
+ For the second half of this year, we are planning to release Tian Yuan, a game incorporating legendary Asian themes and philosophies, and CJ7 Online, based on the theme, contents and characters of the same named movie, CJ7, which stars and was produced by the aforementioned Stephen Chow.
+
+ Beyond 2009, we also have Dungeon Keeper, which will be an MMORPG, inspired by the original game play, style and feel of the original Dungeon Keeper series of games, currently owned by EA.
+
+ Four of the five games just mentioned are based on third-party IP. NetDragon owns the underlying game to develop and we have licensed the right to develop online game space on the respective IPs, as well as the right to operate these games in China and/or greater China, as the case may be.
+
+ We believe that utilizing IP that already has brand awareness in China will keep an advantage up on commercialization of the games in the future.
+
+ This having been said, we will continue to generate original IP in-house, as our R&D continues to generate innovative and exciting game play and story lines. We will disclose more about other game products as they mature.
+
+ Also, I would like to comment on our effort to increase our presence abroad. NetDragon is a pioneer among Chinese online game companies, having commenced in-house R&D in 2001, and having our games released to overseas audience in 2004.
+
+ We also have a strong track record of overseas licensing in foreign markets. In this regard, in 2008, we further strengthened our overseas presence by establishing licensing relationships with local operators in Thailand, Vietnam, and Taiwan.
+
+ We are actively seeking to establish a presence elsewhere, and we will continue to enhance our distribution channel and identify strategic partnership opportunities in the overseas market in the future. With a solid portfolio and diversified pipeline for 2009 and beyond, I believe that we are well positioned to capture the immense market opportunity, both in PRC and abroad.
+
+ Finally, while our costs rose in 2008 and with the rapid hiring of staff, we can already see our strategy paying off, as the output of our R&D division is coming to fruition. As mentioned, we have five games for release this year, and we have released three expansion packs for existing games over the past five months.
+
+ Our increased production capacity and especially the improved quality of our products is all a result of our investment in our people and systems last year. I believe that the solid start for Way of the Five is a testatment to our successful growth strategy and execution capabilities.
+
+ This concludes my portion of the presentation. Thank you all. Now I would like to ask James Rhee, our VP or Corporate Development, to present the financial highlights and a review of the group in the past year.
+
+--------------------------------------------------------------------------------
+ James Rhee,  NetDragon - VP, Corporate Development   [3]
+--------------------------------------------------------------------------------
+ Thank you, Joe. Good evening, everyone. I'll quickly run through some of the numbers.
+
+ The group's full year revenue for 2008 was RMB 596 million, while Q4 revenue remained relative stable at RMB 136.5 million compared with the prior quarter. This is a welcome development after the group's successive quarterly revenue declined in each of the first three quarters of 2008.
+
+ Revenue from overseas markets for the full year was about RMB 150 million, representing an increase of 24% year-on-year and comprising roughly a quarter of our full year sales. PCU was 591,000 in the fourth quarter of 2008, up from 544 in Q3. ACU was 317,000 in Q4 versus 311,000 in Q3.
+
+ The increase of concurrent users in the fourth quarter 2008 was mainly a reflection of the increase in the player base of Eudemons Online, which we partially attribute to our measures against private server activities in latter 2008. Everyone take note that we will not be providing metrics on a game-by-game basis going forward, but will provide aggregate PCU and ACU, as we just disclosed, as well as domestic and overseas breakdown.
+
+ Aggregate presentation of metrics is overwhelmingly the industry norm. Moreover, we are subject to confidentiality provisions with our multiple co-development partners and we would not be able to disclose data on such games. Now back to the numbers -- gross profit margin was 88.6% for the full year, while fourth quarter GPM was 86.6%, which is slightly lower than the preceding third quarter of 87.3. This is partially attributable to supplemental server depreciation.
+
+ Moving on, profit attributable to shareholders was 239, roughly RMB 239 million for the full year and 73.2 million in Q4. Notably, fourth quarter profit was up 43.8% versus Q3 2008. The group is in a healthy financial position, with net cash standing at RMB 1.3 billion as of December 31, 2008, providing ample funds for continued game production and operations as well as furthering our long-term strategic aims.
+
+ I'll continue with a few more numbers. Operating cash flow in 2008 was RMB 274 million. While this is a decrease from the 375 million for 2007, we were readily able to maintain robust and positive operating cash flow, despite all the hardship and challenges that the group faced in 2008.
+
+ CapEx was RMB 82.8 million in 2008 versus 47.5 million in 2007. We also declared an interim cash dividend of Hong Kong 10 cents and we have a proposed final dividend for 2008 of an additional 11 cents, which is subject to shareholder vote at our AGM, which will be coming in April. I'd like to note that if the dividend is approved, the total cash dividend, in RMB terms, would be about 98.8 million for 2008, which would constitute a pay-out ratio of roughly 40% for the full year.
+
+ In addition, share buyback and cancellation last year totaled around RMB 224 million. While we don't have a formal dividend policy that's written in stone as of yet, our commitment to shareholder returns should be self-evident.
+
+ Taking a step away from the financials, rapid and high quality game development is critical to our success. We will continue to invest in and significantly expand our game development capabilities through the recruitment of experienced, topnotch game developers and designers.
+
+ While our margins suffered somewhat in 2008 due to our rapid expansion, which Joe touched upon earlier, we believe that we are laying down the foundations for our future growth and prosperity.
+
+ This past year, we increased internal resources and recruited talent to strengthen our R&D, marketing, operational capabilities, and support functions to better enable us to leverage the inherent advantages of vertical integration as one of the top developers and operators of online games in China.
+
+ Our staff count as of December 31, 2008 was 2,426 people in all. Of that, 1,465 were in R&D, which compares to 412 at the year-end 2007. This investment in our key assets, talented and driven people, should increase our game production capacity, which will allow us to produce a greater variety of games that target different demographics.
+
+ Finally, many companies experience growing pains as they try to scale up into a large enterprise. Many fail. In order to tackle this challenge head on, we are continuing to strengthen our proprietary ERP system by expanding its functionality and usage.
+
+ This ERP system has been used extensively company-wide the past three years and will, in the future, be enhanced to allow for a systematic electronic-based forecasting, planning, and budgeting process and human resource management process.
+
+ We believe this will provide a solid foundation as we grow from a small to a larger company, while also raising individual accountability, efficiency and productivity.
+
+ In the end, we hope to become more capable, profitable, and to eventually dominate the online gaming universe.
+
+ That is the end of the presentation. Thanks to everyone for your attention. And Erica, we're ready for Q-and-A.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Thank you, sir.
+
+ (Operator Instructions)
+
+ Our first question comes from the line of Jin Yoon with Nomura. Please proceed.
+
+--------------------------------------------------------------------------------
+ Jin Yoon,  Nomura International - Analyst   [2]
+--------------------------------------------------------------------------------
+ Good evening, guys. Just a couple questions regarding your games. The aggregate PCU number in the quarter was 591 and I think in the prepared remarks, you mentioned Way of the Five already hitting 100,000.
+
+ So if you subtract that out, it's 491. Could we assume that Eudemons has declined quarter-over-quarter, despite the expansion pack?
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [3]
+--------------------------------------------------------------------------------
+ I think the number you mentioned for Way of the Five is not included in this report. The game is just coming out about three days. So the report is for last year.
+
+--------------------------------------------------------------------------------
+ Jin Yoon,  Nomura International - Analyst   [4]
+--------------------------------------------------------------------------------
+ For last year, okay. So it's not for the 591.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [5]
+--------------------------------------------------------------------------------
+ Right.
+
+--------------------------------------------------------------------------------
+ Jin Yoon,  Nomura International - Analyst   [6]
+--------------------------------------------------------------------------------
+ Okay. A couple questions regarding Eudemons. Let's look at the period before the expansion came out -- expansion pack came out and afterwards. How much incremental growth in PCUs have you seen since the new expansion pack?
+
+ And a couple more questions regarding your gaming pipeline. The Way of the Five, what kind of PCU numbers do you have to hit to hit break even? I know that's hard to quantify, but what kind of PCUs can we expect for you guys to hit if you're going to hit break even on that game in terms of operating expenses for that game?
+
+ And finally, your Disney game, as well, there's Dungeon Keeper. Can you give us some highlights in terms of color, in terms of where you are in the process of delivering them to markets? Are we still in the testing phase? Can you give some color on that? Thanks.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [7]
+--------------------------------------------------------------------------------
+ Sure. For your first question about Eudemons Online, since we are not giving the breakdown for each game, I only can tell you that after our expansion pack, the PCU and ACU, the number has been growing compared to Q3. So that is good news for us. It means that the expansion pack retains and attracts more players.
+
+ And as for the cooperation with Disney and EA, we expect Disney Fantasy Online will come out in May of this year. And for Dungeon Keeper, we expect it will come out later next year.
+
+ And to go back to the last question, I guess, for Way of the Five, I think it's hard for me to give you exact numbers, what's the breakeven number, but I think for a game like this, we would like to see for them to be -- have the potential to become a big game. So we have really high expectations for it.
+
+--------------------------------------------------------------------------------
+ Jin Yoon,  Nomura International - Analyst   [8]
+--------------------------------------------------------------------------------
+ All right. Thanks, guys.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [9]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+Operator   [10]
+--------------------------------------------------------------------------------
+ (Operator Instructions). Our next question comes from the line of Thomas Chong with Bank of America. Please proceed.
+
+--------------------------------------------------------------------------------
+ Thomas Chong,  Bank of America - Analyst   [11]
+--------------------------------------------------------------------------------
+ I have a couple of questions. The first one is about the government grants. Do you expect the government grants of around 19 million? Would it be a one-time or would it be recurring into '09? And the second question is can you give us some guidance about the tax rate for '09?
+
+ And the third question is I see you have expanded quite a number of staff, R&D. Can you give us some color on how many R&D staff you expect by the end of '09?
+
+ Thanks.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [12]
+--------------------------------------------------------------------------------
+ Okay. For the government grant, we expect it's a one-time benefit for '08. Of course, we are the biggest online gaming company in Fujian Province. We expect to have some benefit from government, but that's all I can say at this point.
+
+ In terms of tax rate, we are terrified at (inaudible) company. Right now, enjoying officially like a 10% tax rate. And in terms of the R&D number, the hiring number, I think we will continue to have more capable and talented game developers. And I think we will grow according to our need.
+
+ But as I mention to many analysts, it's a manageable growth. That's the part with the underlying -- so I hope I have answered your question.
+
+--------------------------------------------------------------------------------
+ Thomas Chong,  Bank of America - Analyst   [13]
+--------------------------------------------------------------------------------
+ Thanks. It's been helpful.
+
+--------------------------------------------------------------------------------
+Operator   [14]
+--------------------------------------------------------------------------------
+ Our next question is a follow-up question from the line of Jin Yoon with Nomura. Please proceed.
+
+--------------------------------------------------------------------------------
+ Jin Yoon,  Nomura International - Analyst   [15]
+--------------------------------------------------------------------------------
+ Hey, guys, just a couple more questions. Q4 revenues were flat, largely flat, quarter-over-quarter. You guys have a new expansion pack. Can you give us some color in terms of what happened in Q4 that we didn't see sequential growth in revenues, despite the expansion pack? I know a lot of your competitors across the board have seen seasonal or just by seasonality, we saw growth in Q4.
+
+ Can you give us color in terms of what happened to APAs in the quarter and RPU, as well, how much those expanded or decreased sequentially? I'm just trying to get a better handle on why we saw kind of a flat growth quarter-over-quarter.
+
+ And the second question is some of the APAs that you've seen or if APAs have improved. Are you seeing incremental new gamers coming to NetDragon or have you seen the people who left for private servers come back? Can you give some trend on that as well? Thanks.
+
+--------------------------------------------------------------------------------
+ James Rhee,  NetDragon - VP, Corporate Development   [16]
+--------------------------------------------------------------------------------
+ Joe, why don't I take this one? Just for clarification, the expansion packs which were released, we had an expansion pack for Conquer Online, which was released in Q4, but Joe mentioned a few others and one them for Eudemons wasn't released until mid-January this year. So it's not reflected in the Q4 revenue line at the moment -- is not reflected at all in the Q4 revenue line.
+
+ Obviously, we're not providing breakdowns on the revenue or the metrics on a game-by-game basis. But in our prepared statement, the actual reference to the slight increase in both PCU and ACU was attributable to Eudemons' performance and partially attributable to our fight against the private server situation that had bothered us for most of last year.
+
+ In terms of why didn't our revenue grow, again, the EP for Eudemons was in January this year and the Conquer EP -- as I'm sure you know, Conquer is largely played by an overseas audience and that EP wasn't released until mid-December, I believe.
+
+ In terms of APAs, actually, we don't disclose APA, and our ARPU is generated through just dividing revenue by our ACU. So you can follow the trend there.
+
+--------------------------------------------------------------------------------
+ Jin Yoon,  Nomura International - Analyst   [17]
+--------------------------------------------------------------------------------
+ Okay. Thanks, guys.
+
+--------------------------------------------------------------------------------
+Operator   [18]
+--------------------------------------------------------------------------------
+ Our next question comes from the line of Jeffrey Tsang with Cazenove Asia. Please proceed.
+
+--------------------------------------------------------------------------------
+ Jeffrey Tsang,  Cazenove Asia - Analyst   [19]
+--------------------------------------------------------------------------------
+ Hi, James. Hi, Joe. Two questions for now. One is when I compare the first nine months and the whole year in '08, two items jumped out. One is Other Revenue and Gains, which went from 50 to 95 million, and the other is administrative expenses, which pretty much stayed June 12. I wonder why that is.
+
+ And the second one is regarding the around 35 million loss in the financial assets. As far as I understand, it says from your announcement that it's basically the USD and Australian notes and that it's just a charge to the P&L because of the change in fair value.
+
+ And it says that you guys will get, for both of the notes, 100% of the principal will be received once the notes have expired. So is it safe for me to assume that the 35 million loss might be written back next year when it expires? Thanks.
+
+--------------------------------------------------------------------------------
+ James Rhee,  NetDragon - VP, Corporate Development   [20]
+--------------------------------------------------------------------------------
+ Joe, why don't I take the second question? Actually, I think both questions, the first part and second part is related to the...
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [21]
+--------------------------------------------------------------------------------
+ Yes, they are related.
+
+--------------------------------------------------------------------------------
+ James Rhee,  NetDragon - VP, Corporate Development   [22]
+--------------------------------------------------------------------------------
+ Yes. Just very quickly -- as appears in notes number eight and nine to the actual reported release that you must be looking at, just to clarify, Joe has done this in the 3Q call in the past and just to clarify once again, that related to these notes, the Australian dollar currency risk is hedged through FX forward contracts. That appears in the subsequent note, number nine.
+
+ So we expect that upon maturity, at some point this year, that we will be able to -- that these various instruments will revert to cash on our balance sheet at that point. This is based upon our advisor's views at this time. And Joe, in terms of the admin and the Other Revenue and Gains, why don't you take that, please?
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [23]
+--------------------------------------------------------------------------------
+ Okay, sure. Actually, while the breakdowns of our revenues are mainly coming from the government grants and, again, from the interest, the interest gain and the gain from the currency, the note, actually. So that's why you see a big number there.
+
+ And it is the post of the gain from the revenue is to offset the exchange loss over there. So in this case, we don't see that there is any loss and we expect the contract will expire in June.
+
+--------------------------------------------------------------------------------
+ Jeffrey Sing,  Cazenove Asia - Analyst   [24]
+--------------------------------------------------------------------------------
+ And the admin expenses? How much of the admin expense is attributable to the notes?
+
+--------------------------------------------------------------------------------
+ Celia Tam,  NetDrago - Financial Controller   [25]
+--------------------------------------------------------------------------------
+ To the notes, 35,000. For the fair value loss that we reported, the administrative cost/expenses in Q3 is accumulated to 35 million, and then we classified it to other operating expenses.
+
+--------------------------------------------------------------------------------
+ Jeffrey Sing,  Cazenove Asia - Analyst   [26]
+--------------------------------------------------------------------------------
+ So it's in other operating expenses.
+
+--------------------------------------------------------------------------------
+ Celia Tam,  NetDrago - Financial Controller   [27]
+--------------------------------------------------------------------------------
+ Yes.
+
+--------------------------------------------------------------------------------
+ Jeffrey Sing,  Cazenove Asia - Analyst   [28]
+--------------------------------------------------------------------------------
+ So is it in other operating expenses or is it in administrative expenses?
+
+--------------------------------------------------------------------------------
+ Celia Tam,  NetDrago - Financial Controller   [29]
+--------------------------------------------------------------------------------
+ It's included in other operating expenses. Now, actually, it's classified as being in admin expenses in quarter three. In quarter four, Because this is not a recurring item, so we just reclassified it to other operating.
+
+--------------------------------------------------------------------------------
+ Jeffrey Sing,  Cazenove Asia - Analyst   [30]
+--------------------------------------------------------------------------------
+ I see, got you. Thank you.
+
+--------------------------------------------------------------------------------
+ Celia Tam,  NetDrago - Financial Controller   [31]
+--------------------------------------------------------------------------------
+ You're welcome. And, sorry, one last question regarding your CapEx plans in '09, please.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [32]
+--------------------------------------------------------------------------------
+ Regarding the CapEx? Sorry. Can you ask the question again.
+
+--------------------------------------------------------------------------------
+ Jeffrey Sing,  Cazenove Asia - Analyst   [33]
+--------------------------------------------------------------------------------
+ The CapEx plans in '09.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [34]
+--------------------------------------------------------------------------------
+ I think we will see that there is some growth with the CapEx. I think we are looking at probably a 20% growth in this case.
+
+--------------------------------------------------------------------------------
+ Jeffrey Sing,  Cazenove Asia - Analyst   [35]
+--------------------------------------------------------------------------------
+ And it will be spent on new servers.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [36]
+--------------------------------------------------------------------------------
+ Right.
+
+--------------------------------------------------------------------------------
+ Jeffrey Sing,  Cazenove Asia - Analyst   [37]
+--------------------------------------------------------------------------------
+ Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+ As there are no further questions, may I invite Mr. Rhee to conclude with closing remarks?
+
+--------------------------------------------------------------------------------
+ James Rhee,  NetDragon - VP, Corporate Development   [39]
+--------------------------------------------------------------------------------
+ Thank you very much, everyone, for joining us for our conference call. Should you have any further questions, feel free to contact the IR department of NetDragon, and thank you all again. Have a good night.
+
+--------------------------------------------------------------------------------
+ Joe Wu,  NetDragon - CFO   [40]
+--------------------------------------------------------------------------------
+ Thank you.
+
+--------------------------------------------------------------------------------
+Operator   [41]
+--------------------------------------------------------------------------------
+ Thank you for your participation in today's conference. This concludes the presentation. Everyone have a great day.
+
+
+
+
+
+
+--------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+FINAL TRANSCRIPT: "Final Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------
+Copyright 2009 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------
